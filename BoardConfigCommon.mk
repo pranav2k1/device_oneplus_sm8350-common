@@ -103,11 +103,15 @@ BOARD_KERNEL_CMDLINE := \
     androidboot.selinux=permissive
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_KERNEL_PAGESIZE := 4096
-BOARD_KERNEL_SEPARATED_DTBO := true
 BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOT_HEADER_VERSION)
 BOARD_RAMDISK_USE_LZ4 := true
-TARGET_KERNEL_SOURCE := kernel/oneplus/sm8350
-TARGET_KERNEL_CONFIG := vendor/lahaina-qgki_defconfig
+
+# Prebuilt Kernel
+BOARD_KERNEL_BINARIES := kernel
+TARGET_FORCE_PREBUILT_KERNEL := true
+TARGET_PREBUILT_KERNEL := $(COMMON_PATH)/prebuilt/kernel/kernel
+TARGET_PREBUILT_DTB := $(COMMON_PATH)/prebuilt/kernel/dtb.img
+BOARD_PREBUILT_DTBOIMAGE := $(COMMON_PATH)/prebuilt/kernel/dtbo.img
 
 # Kernel modules
 BOARD_VENDOR_KERNEL_MODULES_BLOCKLIST_FILE := $(COMMON_PATH)/modules.blocklist

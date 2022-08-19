@@ -245,6 +245,9 @@ PRODUCT_PACKAGES += \
     ueventd.oplus.rc \
     ueventd.qcom.rc
 
+# Prebuilt Kernel
+PRODUCT_VENDOR_KERNEL_HEADERS := $(LOCAL_PATH)/prebuilt/kernel/headers
+
 # Keymaster
 PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.1.vendor
