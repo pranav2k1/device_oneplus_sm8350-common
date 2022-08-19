@@ -1,0 +1,1 @@
+cmd_usr/include/linux/selinux_netlink.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/selinux_netlink.h usr/include/linux/selinux_netlink.h

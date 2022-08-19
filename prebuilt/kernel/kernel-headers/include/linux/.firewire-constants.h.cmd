@@ -1,0 +1,1 @@
+cmd_usr/include/linux/firewire-constants.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/firewire-constants.h usr/include/linux/firewire-constants.h

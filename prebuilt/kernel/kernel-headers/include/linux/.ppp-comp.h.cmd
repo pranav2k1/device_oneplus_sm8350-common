@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ppp-comp.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/ppp-comp.h usr/include/linux/ppp-comp.h

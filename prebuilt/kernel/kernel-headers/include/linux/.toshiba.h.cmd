@@ -1,0 +1,1 @@
+cmd_usr/include/linux/toshiba.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/toshiba.h usr/include/linux/toshiba.h

@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/msmcal-hwdep.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/audio/include/uapi/audio/sound/msmcal-hwdep.h usr/include/audio/sound/msmcal-hwdep.h

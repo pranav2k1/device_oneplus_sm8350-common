@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rxrpc.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/rxrpc.h usr/include/linux/rxrpc.h

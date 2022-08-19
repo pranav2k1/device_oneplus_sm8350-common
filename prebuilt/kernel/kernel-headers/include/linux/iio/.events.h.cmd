@@ -1,0 +1,1 @@
+cmd_usr/include/linux/iio/events.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/iio/events.h usr/include/linux/iio/events.h

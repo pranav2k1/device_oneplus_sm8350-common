@@ -1,0 +1,1 @@
+cmd_usr/include/sound/usb_stream.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/sound/usb_stream.h usr/include/sound/usb_stream.h

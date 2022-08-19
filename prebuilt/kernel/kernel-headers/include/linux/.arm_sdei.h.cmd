@@ -1,0 +1,1 @@
+cmd_usr/include/linux/arm_sdei.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/arm_sdei.h usr/include/linux/arm_sdei.h

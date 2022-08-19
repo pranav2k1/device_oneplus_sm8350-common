@@ -1,0 +1,1 @@
+cmd_usr/include/linux/suspend_ioctls.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/suspend_ioctls.h usr/include/linux/suspend_ioctls.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/aio_abi.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/aio_abi.h usr/include/linux/aio_abi.h

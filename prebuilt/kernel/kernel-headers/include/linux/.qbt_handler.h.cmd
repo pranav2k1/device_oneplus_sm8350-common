@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qbt_handler.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/qbt_handler.h usr/include/linux/qbt_handler.h

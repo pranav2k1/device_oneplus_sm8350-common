@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rfkill.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/rfkill.h usr/include/linux/rfkill.h

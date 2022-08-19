@@ -1,0 +1,1 @@
+cmd_usr/include/sound/firewire.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/sound/firewire.h usr/include/sound/firewire.h

@@ -1,0 +1,1 @@
+cmd_usr/include/xen/privcmd.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/xen/privcmd.h usr/include/xen/privcmd.h

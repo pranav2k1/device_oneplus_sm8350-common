@@ -1,0 +1,1 @@
+cmd_usr/include/linux/irqnr.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/irqnr.h usr/include/linux/irqnr.h

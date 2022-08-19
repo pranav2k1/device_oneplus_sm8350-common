@@ -1,0 +1,1 @@
+cmd_usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/display/include/uapi/display/hdcp/msm_hdmi_hdcp_mgr.h usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h

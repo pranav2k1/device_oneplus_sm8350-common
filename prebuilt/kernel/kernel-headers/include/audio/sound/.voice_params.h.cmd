@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/voice_params.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/audio/include/uapi/audio/sound/voice_params.h usr/include/audio/sound/voice_params.h

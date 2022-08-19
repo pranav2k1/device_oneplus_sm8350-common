@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_ipv4/ipt_ecn.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/netfilter_ipv4/ipt_ecn.h usr/include/linux/netfilter_ipv4/ipt_ecn.h

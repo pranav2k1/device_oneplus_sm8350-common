@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/g_printer.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/usb/g_printer.h usr/include/linux/usb/g_printer.h

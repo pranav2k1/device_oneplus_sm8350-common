@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/int-l64.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/asm-generic/int-l64.h usr/include/asm-generic/int-l64.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rdma_user_rxe.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/rdma/rdma_user_rxe.h usr/include/rdma/rdma_user_rxe.h

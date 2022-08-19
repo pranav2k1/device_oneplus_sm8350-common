@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/msm_audio_voicememo.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/audio/include/uapi/audio/linux/msm_audio_voicememo.h usr/include/audio/linux/msm_audio_voicememo.h

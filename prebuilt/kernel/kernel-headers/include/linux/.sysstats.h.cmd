@@ -1,0 +1,1 @@
+cmd_usr/include/linux/sysstats.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/sysstats.h usr/include/linux/sysstats.h

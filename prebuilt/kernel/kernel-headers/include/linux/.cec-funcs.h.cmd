@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cec-funcs.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/cec-funcs.h usr/include/linux/cec-funcs.h

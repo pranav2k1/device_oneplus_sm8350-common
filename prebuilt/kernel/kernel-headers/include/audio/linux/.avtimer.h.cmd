@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/avtimer.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/audio/include/uapi/audio/linux/avtimer.h usr/include/audio/linux/avtimer.h

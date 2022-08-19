@@ -1,0 +1,1 @@
+cmd_usr/include/display/media/mmm_color_fmt.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/display/include/uapi/display/media/mmm_color_fmt.h usr/include/display/media/mmm_color_fmt.h

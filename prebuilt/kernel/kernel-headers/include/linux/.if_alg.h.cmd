@@ -1,0 +1,1 @@
+cmd_usr/include/linux/if_alg.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/if_alg.h usr/include/linux/if_alg.h

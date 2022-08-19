@@ -1,0 +1,1 @@
+cmd_usr/include/linux/kvm_para.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/kvm_para.h usr/include/linux/kvm_para.h

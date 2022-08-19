@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/ib_user_sa.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/rdma/ib_user_sa.h usr/include/rdma/ib_user_sa.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dlmconstants.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/dlmconstants.h usr/include/linux/dlmconstants.h

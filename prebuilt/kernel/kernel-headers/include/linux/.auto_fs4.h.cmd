@@ -1,0 +1,1 @@
+cmd_usr/include/linux/auto_fs4.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/auto_fs4.h usr/include/linux/auto_fs4.h

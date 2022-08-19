@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/xt_mac.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/netfilter/xt_mac.h usr/include/linux/netfilter/xt_mac.h

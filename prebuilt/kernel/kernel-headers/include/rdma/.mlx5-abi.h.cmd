@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/mlx5-abi.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/rdma/mlx5-abi.h usr/include/rdma/mlx5-abi.h

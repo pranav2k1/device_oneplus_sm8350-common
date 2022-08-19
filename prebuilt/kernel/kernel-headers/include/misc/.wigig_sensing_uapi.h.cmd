@@ -1,0 +1,1 @@
+cmd_usr/include/misc/wigig_sensing_uapi.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/misc/wigig_sensing_uapi.h usr/include/misc/wigig_sensing_uapi.h

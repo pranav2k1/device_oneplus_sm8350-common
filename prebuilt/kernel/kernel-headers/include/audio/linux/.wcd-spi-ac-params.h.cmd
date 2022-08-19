@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/wcd-spi-ac-params.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/audio/include/uapi/audio/linux/wcd-spi-ac-params.h usr/include/audio/linux/wcd-spi-ac-params.h

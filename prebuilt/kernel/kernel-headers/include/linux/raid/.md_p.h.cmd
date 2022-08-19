@@ -1,0 +1,1 @@
+cmd_usr/include/linux/raid/md_p.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/raid/md_p.h usr/include/linux/raid/md_p.h

@@ -1,0 +1,1 @@
+cmd_usr/include/asm/setup.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/arch/arm64/include/uapi/asm/setup.h usr/include/asm/setup.h

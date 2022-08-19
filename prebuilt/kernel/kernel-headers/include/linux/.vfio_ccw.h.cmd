@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vfio_ccw.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/vfio_ccw.h usr/include/linux/vfio_ccw.h

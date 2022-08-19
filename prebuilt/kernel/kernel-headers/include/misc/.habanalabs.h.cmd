@@ -1,0 +1,1 @@
+cmd_usr/include/misc/habanalabs.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/misc/habanalabs.h usr/include/misc/habanalabs.h

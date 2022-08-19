@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dvb/video.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/dvb/video.h usr/include/linux/dvb/video.h

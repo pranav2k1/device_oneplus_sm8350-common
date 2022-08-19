@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vm_sockets.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/vm_sockets.h usr/include/linux/vm_sockets.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/hns-abi.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/rdma/hns-abi.h usr/include/rdma/hns-abi.h

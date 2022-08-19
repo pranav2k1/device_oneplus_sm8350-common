@@ -1,0 +1,1 @@
+cmd_usr/include/vidc/media/msm_media_info.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/video/include/uapi/vidc/media/msm_media_info.h usr/include/vidc/media/msm_media_info.h

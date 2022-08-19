@@ -1,0 +1,1 @@
+cmd_usr/include/linux/major.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/major.h usr/include/linux/major.h

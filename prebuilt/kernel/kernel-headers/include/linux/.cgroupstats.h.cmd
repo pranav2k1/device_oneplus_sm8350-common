@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cgroupstats.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/cgroupstats.h usr/include/linux/cgroupstats.h

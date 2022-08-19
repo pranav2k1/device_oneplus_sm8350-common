@@ -1,0 +1,1 @@
+cmd_usr/include/camera/oplus/media/oplus_cam_sensor.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/camera/include/uapi/camera/oplus/media/oplus_cam_sensor.h usr/include/camera/oplus/media/oplus_cam_sensor.h

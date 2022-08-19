@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tipc_config.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/tipc_config.h usr/include/linux/tipc_config.h

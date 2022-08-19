@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/ioctls.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/asm-generic/ioctls.h usr/include/asm-generic/ioctls.h

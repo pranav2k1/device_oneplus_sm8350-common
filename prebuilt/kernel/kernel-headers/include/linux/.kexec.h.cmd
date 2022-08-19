@@ -1,0 +1,1 @@
+cmd_usr/include/linux/kexec.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/kexec.h usr/include/linux/kexec.h

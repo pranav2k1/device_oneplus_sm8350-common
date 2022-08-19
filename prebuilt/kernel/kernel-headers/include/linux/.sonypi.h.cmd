@@ -1,0 +1,1 @@
+cmd_usr/include/linux/sonypi.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/sonypi.h usr/include/linux/sonypi.h

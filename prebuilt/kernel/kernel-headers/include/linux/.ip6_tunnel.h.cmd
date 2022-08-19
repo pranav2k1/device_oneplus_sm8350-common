@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ip6_tunnel.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/ip6_tunnel.h usr/include/linux/ip6_tunnel.h

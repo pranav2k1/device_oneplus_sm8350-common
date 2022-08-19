@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/header.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/sound/sof/header.h usr/include/sound/sof/header.h

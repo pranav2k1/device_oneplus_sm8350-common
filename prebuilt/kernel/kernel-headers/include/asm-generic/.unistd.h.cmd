@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/unistd.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/asm-generic/unistd.h usr/include/asm-generic/unistd.h

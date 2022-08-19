@@ -246,7 +246,11 @@ PRODUCT_PACKAGES += \
     ueventd.qcom.rc
 
 # Prebuilt Kernel
-PRODUCT_VENDOR_KERNEL_HEADERS := $(LOCAL_PATH)/prebuilt/kernel/headers
+PRODUCT_VENDOR_KERNEL_HEADERS := $(LOCAL_PATH)/prebuilt/kernel/kernel-headers
+PRODUCT_COPY_FILES += \
+        $(LOCAL_PATH)/prebuilt/kernel/dtb.img:$(TARGET_COPY_OUT)/dtb.img \
+        $(LOCAL_PATH)/prebuilt/kernel/dtbo.img:$(TARGET_COPY_OUT)/dtbo.img \
+        $(LOCAL_PATH)/prebuilt/kernel/kernel:kernel
 
 # Keymaster
 PRODUCT_PACKAGES += \

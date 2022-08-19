@@ -1,0 +1,1 @@
+cmd_usr/include/linux/taskstats.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/taskstats.h usr/include/linux/taskstats.h

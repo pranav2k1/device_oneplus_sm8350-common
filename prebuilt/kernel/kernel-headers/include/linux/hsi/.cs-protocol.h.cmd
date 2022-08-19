@@ -1,0 +1,1 @@
+cmd_usr/include/linux/hsi/cs-protocol.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/hsi/cs-protocol.h usr/include/linux/hsi/cs-protocol.h

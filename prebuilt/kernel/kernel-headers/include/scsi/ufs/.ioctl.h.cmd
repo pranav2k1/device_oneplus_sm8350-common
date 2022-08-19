@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/ufs/ioctl.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/scsi/ufs/ioctl.h usr/include/scsi/ufs/ioctl.h

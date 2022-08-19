@@ -1,0 +1,1 @@
+cmd_usr/include/linux/random.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/random.h usr/include/linux/random.h

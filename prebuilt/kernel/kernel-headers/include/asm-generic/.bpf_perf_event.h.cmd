@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/bpf_perf_event.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/asm-generic/bpf_perf_event.h usr/include/asm-generic/bpf_perf_event.h

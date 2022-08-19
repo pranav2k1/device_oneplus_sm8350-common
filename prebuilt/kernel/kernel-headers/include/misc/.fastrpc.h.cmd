@@ -1,0 +1,1 @@
+cmd_usr/include/misc/fastrpc.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/misc/fastrpc.h usr/include/misc/fastrpc.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/reboot.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/reboot.h usr/include/linux/reboot.h

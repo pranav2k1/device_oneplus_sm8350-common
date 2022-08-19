@@ -1,0 +1,1 @@
+cmd_usr/include/linux/radeonfb.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/radeonfb.h usr/include/linux/radeonfb.h

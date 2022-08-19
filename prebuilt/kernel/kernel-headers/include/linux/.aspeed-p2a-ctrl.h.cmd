@@ -1,0 +1,1 @@
+cmd_usr/include/linux/aspeed-p2a-ctrl.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/aspeed-p2a-ctrl.h usr/include/linux/aspeed-p2a-ctrl.h

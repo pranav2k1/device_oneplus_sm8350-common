@@ -1,0 +1,1 @@
+cmd_usr/include/linux/genwqe/genwqe_card.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/genwqe/genwqe_card.h usr/include/linux/genwqe/genwqe_card.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/isdn/capicmd.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/isdn/capicmd.h usr/include/linux/isdn/capicmd.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gameport.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/gameport.h usr/include/linux/gameport.h

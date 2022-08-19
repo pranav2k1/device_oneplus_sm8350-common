@@ -1,0 +1,1 @@
+cmd_usr/include/sound/emu10k1.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/sound/emu10k1.h usr/include/sound/emu10k1.h

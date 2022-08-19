@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gfs2_ondisk.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/gfs2_ondisk.h usr/include/linux/gfs2_ondisk.h

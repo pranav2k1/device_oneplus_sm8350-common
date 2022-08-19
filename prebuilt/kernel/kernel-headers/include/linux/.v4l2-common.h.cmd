@@ -1,0 +1,1 @@
+cmd_usr/include/linux/v4l2-common.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/v4l2-common.h usr/include/linux/v4l2-common.h

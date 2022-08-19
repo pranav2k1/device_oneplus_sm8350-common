@@ -1,0 +1,1 @@
+cmd_usr/include/linux/spss_utils.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/spss_utils.h usr/include/linux/spss_utils.h

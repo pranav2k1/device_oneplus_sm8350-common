@@ -1,0 +1,1 @@
+cmd_usr/include/asm/posix_types.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/arch/arm64/include/uapi/asm/posix_types.h usr/include/asm/posix_types.h

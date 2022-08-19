@@ -1,0 +1,1 @@
+cmd_usr/include/media/radio-iris.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/media/radio-iris.h usr/include/media/radio-iris.h

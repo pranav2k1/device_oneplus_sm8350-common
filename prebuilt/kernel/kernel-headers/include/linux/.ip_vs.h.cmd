@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ip_vs.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/ip_vs.h usr/include/linux/ip_vs.h

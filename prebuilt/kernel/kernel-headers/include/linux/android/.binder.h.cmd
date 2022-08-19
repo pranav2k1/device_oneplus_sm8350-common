@@ -1,0 +1,1 @@
+cmd_usr/include/linux/android/binder.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/include/uapi/linux/android/binder.h usr/include/linux/android/binder.h

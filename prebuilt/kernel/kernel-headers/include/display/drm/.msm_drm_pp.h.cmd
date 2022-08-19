@@ -1,0 +1,1 @@
+cmd_usr/include/display/drm/msm_drm_pp.h := sh /home/vjspranav/stag/kernel/oneplus/sm8350/scripts/headers_install.sh /home/vjspranav/stag/kernel/oneplus/sm8350/techpack/display/include/uapi/display/drm/msm_drm_pp.h usr/include/display/drm/msm_drm_pp.h
